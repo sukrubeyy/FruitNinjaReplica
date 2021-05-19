@@ -1,3 +1,3 @@
 # FruitNinjaReplica
 
-#I bought the models from Brackeys
+# Models belong to brackeys
